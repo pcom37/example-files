@@ -1,0 +1,6 @@
+@startuml
+
+' Include the diagram content
+!include use-case.puml
+
+@enduml
